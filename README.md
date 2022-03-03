@@ -5,16 +5,11 @@ Optical coherence tomography (OCT) imaging is a well-known technology for visual
 # Dataset
 
 Most of the OCT datasets include few images of 2 or 3 types of disease. In order to expand our investigations and validate our results, we ran our experiments on two datasets.
-The first is the [Kermany dataset](https://data.mendeley.com/datasets/rscbjbr9sj/3) which is a large dataset containing 108,312 images (37,206 with CNV, 11,349 with DME, 8,617 with DRUSEN, and 51,140 Normal) from 4,686 patients for training and 1000
-images from 633 patients for evaluating the models.
-The second dataset is named OCTID [1] and belongs to
-the waterloo university. It includes 572 images of 5 classes:
-Normal, AMD, CSR, DR, and MH.
-In the Kermany dataset [21], each patient has several OCT
-images. We selected one image of each patient in the training
-set to reduce the data size, but we kept the same test set for
-evaluation. In the second dataset, we allocated 20% of images
-of each class for testing, and the rest were used for training
-the models. The details of the data distribution of our work are
-presented in the table. I. Some of the images in our collected
-dataset are displayed in fig. 1.
+The first is the [Kermany dataset](https://data.mendeley.com/datasets/rscbjbr9sj/3) which is a large dataset containing 108,312 images (37,206 with CNV, 11,349 with DME, 8,617 with DRUSEN, and 51,140 Normal) from 4,686 patients for training and 1000 images from 633 patients for evaluating the models.</br>
+The second dataset is named [OCTID](https://www.sciencedirect.com/science/article/abs/pii/S0045790618330842) and belongs to the waterloo university. It includes 572 images of 5 classes: Normal, AMD, CSR, DR, and MH. In the Kermany dataset, each patient has several OCT images. We selected one image of each patient in the training set to reduce the data size, but we kept the same test set for evaluation. In the second dataset, we allocated 20% of images of each class for testing, and the rest were used for training the models. The details of the data distribution of our work are
+presented in the table.1.
+
+  Dataset | Number of Classes | Training Images | Testing Images | AMD | CSR | DR | MH | CNV | DME | DRUSEN | NORMAL |
+------------ | ------------- | ------------- | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  
+ [Kermany](https://data.mendeley.com/datasets/rscbjbr9sj/3)| 4 | 3213 | 1000 | N/A | N/A | N/A | N/A | 791/250 | 709/250 | 713/250 | 1000/250 |
+[OCTID](https://www.sciencedirect.com/science/article/abs/pii/S0045790618330842) | 5 | 459 | 113 | 44/11 | 82/20 | 86/21 | 85/20 | N/A | N/A | N/A | 165/41 
