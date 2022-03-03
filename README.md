@@ -9,11 +9,9 @@ The first is the [Kermany dataset](https://data.mendeley.com/datasets/rscbjbr9sj
 The second dataset is named [OCTID](https://www.sciencedirect.com/science/article/abs/pii/S0045790618330842) and belongs to the waterloo university. It includes 572 images of 5 classes: Normal, AMD, CSR, DR, and MH. In the Kermany dataset, each patient has several OCT images. We selected one image of each patient in the training set to reduce the data size, but we kept the same test set for evaluation. In the second dataset, we allocated 20% of images of each class for testing, and the rest were used for training the models. The details of the data distribution of our work are
 presented in the table.1.
 
-<p>
-  <caption>A Caption</caption>
+
   Dataset | Number of Classes | Training Images | Testing Images | AMD | CSR | DR | MH | CNV | DME | DRUSEN | NORMAL |
 ------------ | ------------- | ------------- | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  | -------------  
  [Kermany](https://data.mendeley.com/datasets/rscbjbr9sj/3)| 4 | 3213 | 1000 | N/A | N/A | N/A | N/A | 791/250 | 709/250 | 713/250 | 1000/250 |
 [OCTID](https://www.sciencedirect.com/science/article/abs/pii/S0045790618330842) | 5 | 459 | 113 | 44/11 | 82/20 | 86/21 | 85/20 | N/A | N/A | N/A | 165/41 
-  <caption>
-<p>
+Table. 1 : This table shows the details of the utilized dataset in the paper. "/" divides the training and testing images of each class.
