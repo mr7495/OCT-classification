@@ -66,5 +66,18 @@ on the Kermany, and OCTID datasets, respectively.</em>
   doi={10.1109/ICCKE54056.2021.9721471}}
  ```
 
+#References
+
+1- Kermany D, Goldbaum M, Cai W et al. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 2018; 172(5):1122-1131. doi:10.1016/j.cell.2018.02.010
+
+2- Gholami, P., Roy, P., Parthasarathy, M.K. and Lakshminarayanan, V., 2020. OCTID: Optical coherence tomography image database. Computers & Electrical Engineering, 81, p.106532.
+
+3- Rahimzadeh, M., Parvin, S., Safi, E. and Mohammadi, M.R., 2021. Wise-srnet: A novel architecture for enhancing image classification by learning spatial resolution of feature maps. arXiv preprint arXiv:2104.12294.
+
+4- Tan, M. and Le, Q., 2021, July. Efficientnetv2: Smaller models and faster training. In International Conference on Machine Learning (pp. 10096-10106). PMLR.
+
+5-Chollet, F., 2017. Xception: Deep learning with depthwise separable convolutions. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1251-1258).
+
+
 If you have any questions, contact me by this email : mr7495@yahoo.com
 
