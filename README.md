@@ -51,3 +51,22 @@ on the Kermany, and OCTID datasets, respectively.</em>
 </p>
 
 
+**The published version of our paper is available at:** </br>
+ https://doi.org/10.1109/ICCKE54056.2021.9721471
+ 
+ 
+**If you use our data or codes, please cite it by:**
+ ```
+@INPROCEEDINGS{9721471,
+  author={Rahimzadeh, Mohammad and Mohammadi, Mahmoud Reza},
+  booktitle={2021 11th International Conference on Computer Engineering and Knowledge (ICCKE)}, 
+  title={ROCT-Net: A new ensemble deep convolutional model with improved spatial resolution learning for detecting common diseases from retinal OCT images}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={85-91},
+  doi={10.1109/ICCKE54056.2021.9721471}}
+ ```
+
+If you have any questions, contact me by this email : mr7495@yahoo.com
+
