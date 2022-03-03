@@ -58,7 +58,7 @@ Training ROC-Net on the [Kermany](https://data.mendeley.com/datasets/rscbjbr9sj/
 
 Training ROCT-Net without using capsule layers on the [Kermany](https://data.mendeley.com/datasets/rscbjbr9sj/3) Dataset: [ROCT_Net_without_Capsules_Kermany_Dataset.ipynb](https://github.com/mr7495/OCT-classification/blob/main/ROCT_Net_without_Capsules_Kermany_Dataset.ipynb)
 
-**Warning: Model saving function in keras does not save the weights produced by capsule layers, so your saved models will not be the trained model. This bug should be fixed in the future. If you wish to save your model using the classic model.save function in Keras, anyway, use the [ROCT_Net_without_Capsules_Kermany_Dataset.ipynb](https://github.com/mr7495/OCT-classification/blob/main/ROCT_Net_without_Capsules_Kermany_Dataset.ipynb) code.**
+**Warning: Model saving function in keras does not save the weights produced by capsule layers, so your saved models will not be as equal as the trained model. This bug should be fixed in the future. If you wish to save your model, anyway, using the classic model.save function in Keras, use the [ROCT_Net_without_Capsules_Kermany_Dataset.ipynb](https://github.com/mr7495/OCT-classification/blob/main/ROCT_Net_without_Capsules_Kermany_Dataset.ipynb) code.**
 
 **The published version of our paper is available at:** </br>
  https://doi.org/10.1109/ICCKE54056.2021.9721471
