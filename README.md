@@ -43,5 +43,5 @@ Our Model | Kermany | 3213 | 1000 | 0.9870
 <p align="center">
     <img src="/images/val_accuracy-OCT-dataset2-1.jpg" width="50%"><img src="/images/val_accuracy-OCT-dataset1-1.jpg" width="50%">
     <br>
-    <em> Fig.1. The architecture of our model</em>
+    <em> This figure clarifies that our proposed model achieves higher results compared to vanilla models and architectures</em>
 </p>
