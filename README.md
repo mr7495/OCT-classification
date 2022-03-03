@@ -50,6 +50,11 @@ Our Model | Kermany | 3213 | 1000 | 0.9870
 on the Kermany, and OCTID datasets, respectively.</em>
 </p>
 
+# Source Code
+
+Training ROCT-Net on the [OCTID](https://www.sciencedirect.com/science/article/abs/pii/S0045790618330842) dataset: [ROCT_Net_OCTID_dataset.ipynb](https://github.com/mr7495/OCT-classification/blob/main/ROCT_Net_OCTID_dataset.ipynb)
+
+Training ROC-Net on the [Kermany](https://data.mendeley.com/datasets/rscbjbr9sj/3) Dataset: 
 
 **The published version of our paper is available at:** </br>
  https://doi.org/10.1109/ICCKE54056.2021.9721471
