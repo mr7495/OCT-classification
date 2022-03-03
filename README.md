@@ -39,8 +39,4 @@ Our Model | OCTID | 459 | 113 | 0.9646
 [IncptionV3](https://www.sciencedirect.com/science/article/pii/S0092867418301545) | Kermany | 108,312 | 1000 | 0.9610
 Our Model | Kermany | 3213 | 1000 | 0.9870
 
-<p align="center">
-    <img src="/images/val_accuracy-OCT-dataset2-1.jpg" width="50%"><img src="/images/val_accuracy-OCT-dataset1-1.jpg width="50%">
-    <br>
-    <em> Fig.1. The architecture of our model</em>
-</p>
+<img src="/images/val_accuracy-OCT-dataset2-1.jpg" width="50%"><img src="/images/val_accuracy-OCT-dataset1-1.jpg width="50%">
