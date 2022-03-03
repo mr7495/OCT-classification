@@ -32,6 +32,9 @@ Our experiments prove that getting the final classification array from the capsu
 
 Most of the previous works in this field are based on detecting one or two diseases from OCT images. As we explore detecting several diseases in two different datasets, there are few works whose research criteria are similar to ours. In table. IV, we have compared our model with some other researches. It is evident from table. IV that our model outperforms the previous methods. The notable point is that on the Kermany dataset, we only used 3213 training images while the original paper adopted the whole 108,312 images for training the models. It can be concluded that our proposed model can reach higher accuracy when training on much fewer data. This statement shows the learning capability of our model and introduced methods.
 
+It is evident from next table that our model outperforms the previous methods. The notable point is that on the Kermany dataset, we only used 3213 training images while the original paper adopted the whole 108,312 images for training the models. It can be concluded that our proposed model can reach higher accuracy when training on much fewer data.
+This statement shows the learning capability of our model and introduced methods.
+
   Methods | Dataset | Training Images | Evaluation Images | Overall Accuracy |
 ------------ | ------------- | ------------- | -------------  | -------------   
 [Singh](https://arxiv.org/abs/2101.12041) | OCTID | 459 | 113 | 0.9140
@@ -41,7 +44,10 @@ Our Model | Kermany | 3213 | 1000 | 0.9870
 
 
 <p align="center">
-    <img src="/images/val_accuracy-OCT-dataset2-1.jpg" width="50%"><img src="/images/val_accuracy-OCT-dataset1-1.jpg" width="50%">
+    <img src="/images/val_accuracy-OCT-dataset1-1.jpg" width="50%"><img src="/images/val_accuracy-OCT-dataset2-1.jpg" width="50%">
     <br>
-    <em> This figure clarifies that our proposed model achieves higher results compared to vanilla models and architectures</em>
+    <em> This figure clarifies that our proposed model achieves higher results compared to vanilla models and architectures. The left and right figures are based on training
+on the Kermany, and OCTID datasets, respectively.</em>
 </p>
+
+
