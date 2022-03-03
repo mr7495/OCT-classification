@@ -66,7 +66,7 @@ on the Kermany, and OCTID datasets, respectively.</em>
   doi={10.1109/ICCKE54056.2021.9721471}}
  ```
 
-#References
+# References
 
 1- Kermany D, Goldbaum M, Cai W et al. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 2018; 172(5):1122-1131. doi:10.1016/j.cell.2018.02.010
 
