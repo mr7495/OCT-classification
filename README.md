@@ -62,8 +62,6 @@ on the Kermany, and OCTID datasets, respectively.</em>
   booktitle={2021 11th International Conference on Computer Engineering and Knowledge (ICCKE)}, 
   title={ROCT-Net: A new ensemble deep convolutional model with improved spatial resolution learning for detecting common diseases from retinal OCT images}, 
   year={2021},
-  volume={},
-  number={},
   pages={85-91},
   doi={10.1109/ICCKE54056.2021.9721471}}
  ```
